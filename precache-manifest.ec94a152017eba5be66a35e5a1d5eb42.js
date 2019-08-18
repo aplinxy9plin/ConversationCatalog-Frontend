@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/ConversationCatalog-Frontend/static/js/runtime~main.48077d34.js"
   },
   {
-    "revision": "e60b8bc9441eb94d8a18",
-    "url": "/ConversationCatalog-Frontend/static/js/main.e25bb465.chunk.js"
+    "revision": "479b098a3196d54d5d39",
+    "url": "/ConversationCatalog-Frontend/static/js/main.3af989ab.chunk.js"
   },
   {
     "revision": "57aacd14a2ca5859eee1",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ConversationCatalog-Frontend/static/css/2.b08b948a.chunk.css"
   },
   {
-    "revision": "e3f1ac6a47011bbfda77e5cfee0e0368",
+    "revision": "73066b5afef9049aa596690235849e0a",
     "url": "/ConversationCatalog-Frontend/index.html"
   }
 ];
